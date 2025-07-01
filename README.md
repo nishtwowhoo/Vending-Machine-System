@@ -1,5 +1,6 @@
 # Vending-Machine-System
 This project is a console-based vending machine system developed in C, simulating an automated beverage and snack dispenser.
+
 Features
 ✔ Product Selection: Choose from 11 different beverages and snacks.
 ✔ Input Validation: Ensures correct product IDs (1–11), positive quantities, and sufficient payment.
